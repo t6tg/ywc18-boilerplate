@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ywc18-boilerplate/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/ywc18-boilerplate/static/js/main.5cc2e480.chunk.js",
-    "main.js.map": "/ywc18-boilerplate/static/js/main.5cc2e480.chunk.js.map",
-    "runtime-main.js": "/ywc18-boilerplate/static/js/runtime-main.4ca34d7a.js",
-    "runtime-main.js.map": "/ywc18-boilerplate/static/js/runtime-main.4ca34d7a.js.map",
-    "static/js/2.34960f37.chunk.js": "/ywc18-boilerplate/static/js/2.34960f37.chunk.js",
-    "static/js/2.34960f37.chunk.js.map": "/ywc18-boilerplate/static/js/2.34960f37.chunk.js.map",
-    "static/js/3.ea161699.chunk.js": "/ywc18-boilerplate/static/js/3.ea161699.chunk.js",
-    "static/js/3.ea161699.chunk.js.map": "/ywc18-boilerplate/static/js/3.ea161699.chunk.js.map",
+    "main.css": "/ywc18-boilerplate/static/css/main.a617e044.chunk.css",
+    "main.js": "/ywc18-boilerplate/static/js/main.09f05b9e.chunk.js",
+    "main.js.map": "/ywc18-boilerplate/static/js/main.09f05b9e.chunk.js.map",
+    "runtime-main.js": "/ywc18-boilerplate/static/js/runtime-main.14903ace.js",
+    "runtime-main.js.map": "/ywc18-boilerplate/static/js/runtime-main.14903ace.js.map",
+    "static/js/2.37c44dc2.chunk.js": "/ywc18-boilerplate/static/js/2.37c44dc2.chunk.js",
+    "static/js/2.37c44dc2.chunk.js.map": "/ywc18-boilerplate/static/js/2.37c44dc2.chunk.js.map",
+    "static/js/3.5038fbdb.chunk.js": "/ywc18-boilerplate/static/js/3.5038fbdb.chunk.js",
+    "static/js/3.5038fbdb.chunk.js.map": "/ywc18-boilerplate/static/js/3.5038fbdb.chunk.js.map",
     "index.html": "/ywc18-boilerplate/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/ywc18-boilerplate/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.34960f37.chunk.js.LICENSE.txt": "/ywc18-boilerplate/static/js/2.34960f37.chunk.js.LICENSE.txt",
+    "static/css/main.a617e044.chunk.css.map": "/ywc18-boilerplate/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.37c44dc2.chunk.js.LICENSE.txt": "/ywc18-boilerplate/static/js/2.37c44dc2.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ywc18-boilerplate/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ca34d7a.js",
-    "static/js/2.34960f37.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5cc2e480.chunk.js"
+    "static/js/runtime-main.14903ace.js",
+    "static/js/2.37c44dc2.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.09f05b9e.chunk.js"
   ]
 }
